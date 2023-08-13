@@ -6,6 +6,5 @@ The Web3Pass protocol aims to simplify and democratize participation in the web3
 
 Join us on this exciting journey as we shape the future of web3 interactions and unlock new possibilities for users worldwide! :rocket: :earth_africa:
 
-Explore our [SRS](https://github.com/Web3-Pass/Web3Pass-SRS) to get a feel of what Web3Pass is truly about :book:
 
 ![Web3Pass Logo](download.png)
